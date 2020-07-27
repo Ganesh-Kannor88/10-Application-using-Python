@@ -1,2 +1,1 @@
-# Ganesh-Rohidas-Kannor
-Student of computer engineering.
+#10 Application Using Python
